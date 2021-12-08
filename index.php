@@ -15,7 +15,7 @@
     <div class="menu">
         <div class="menu-corpo">
             
-            <a class="text-white" href="/">inicio</a>
+            <a class="text-white" href="/">home</a>
             <a class="text-white" href="/contato.php">contato</a>
         </div>
     </div>
