@@ -14,6 +14,12 @@ body {
     display: flex;
     justify-content: center;
 }
+.bloco-contato{
+    display: flex;
+    padding: 2rem 0 2rem 0;
+    align-items: center;
+    flex-direction: column;
+}
 .imagem-pessoa{
     width: 400px;
     
@@ -23,4 +29,27 @@ body {
 }
 .text-white{
     color: #fff!important;
+}
+.linha{
+    width: 480px;
+    justify-content: space-between;
+    display:flex;
+}
+.grupo-campo{
+    display:flex;
+    flex-direction: column;
+}
+.m-2{
+    margin: 2rem 0 2rem 0;
+}
+
+.bloco-contato textarea {
+    width: 480px;
+}
+.btn-confirmar{
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    border:none;
+    color: #fff!important;
+    background-color: #378805;
+    border-radius: 1rem;
 }
